@@ -18,7 +18,7 @@ class laptop {
    }
 }
   
-// buat objek dari class laptop (instansiasi)
+
 $laptop_andi= new laptop();
   
 echo "<br />";
